@@ -101,10 +101,6 @@ ms.drag_and_drop(100, 200, 400, 500, steps=150)
 - Örnek: `noise_range=2` ⇒ her adımda `-2` ile `+2` arasında sapma olur.
 - İnsan elinin hassasiyetini taklit eder.
 
-### `easing: bool`
-- True olarak ayarlanırsa fare hareketi başta yavaş, ortada hızlı, sonda tekrar yavaş olur.
-- Daha doğal bir hareket görünümü sağlar.
-
 ---
 
 ## 🖱️ "Notch" nedir?
