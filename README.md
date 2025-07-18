@@ -37,7 +37,7 @@ pip install MouseSim
 ## 🧪 Kullanım Örnekleri / Usage Examples
 
 ```python
-from mice_sim import MouseSim
+from MouseSim import *
 import time, random, math
 
 # MouseSim objesini oluşturun / Create a MouseSim instance
